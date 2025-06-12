@@ -1,3 +1,9 @@
-<div className="text-3xl font-bold text-blue-600 underline">
-  ¡Tailwind CSS funciona! 🎉
-</div>
+function App() {
+  return (
+    <div className="text-blue-500 text-3xl font-bold p-6">
+      Hola mundo
+    </div>
+  );
+}
+
+export default App;
