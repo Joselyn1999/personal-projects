@@ -209,7 +209,7 @@ export default function Portfolio() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="font-bold text-xl bg-gradient-to-r from-teal-400 to-blue-400 bg-clip-text text-transparent">
-              Joselyn Ninahuman
+              Joselyn Ninahuaman
             </div>
             
             {/* Desktop Menu */}
@@ -289,7 +289,7 @@ export default function Portfolio() {
             </a>
             <div className="flex items-center gap-2 text-gray-300 px-4 py-2 bg-gray-800/50 rounded-lg">
               <MapPin className="w-4 h-4 text-teal-400" />
-              <span>Esplugues de Llobregat</span>
+              <span>Vilanova i la Geltrú</span>
             </div>
           </div>
 
@@ -602,7 +602,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="text-gray-400 text-sm">Ubicación</p>
-                      <p className="text-white font-medium">Esplugues de Llobregat, Barcelona</p>
+                      <p className="text-white font-medium">Vilanova i la Geltrú, Barcelona</p>
                     </div>
                   </div>
                 </div>
@@ -680,7 +680,7 @@ export default function Portfolio() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
               <p className="text-gray-400 text-sm">
-                © {new Date().getFullYear()} Joselyn Ninahuman. Todos los derechos reservados.
+                © {new Date().getFullYear()} Joselyn Ninahuaman. Todos los derechos reservados.
               </p>
             </div>
             <div className="flex space-x-6">
