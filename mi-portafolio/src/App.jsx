@@ -301,7 +301,7 @@ export default function Portfolio() {
               <div className="absolute inset-0 bg-gradient-to-r from-amber-400 to-orange-500 rounded-full blur-md opacity-25 group-hover:opacity-40 transition-opacity duration-500"></div>
               <div className="relative w-full h-full rounded-full overflow-hidden shadow-2xl border-4 border-white">
                 <img 
-                  src="/joselyn.jpg"  
+                  src="/public/IMG_8108.jpg"  
                   alt="Foto de Joselyn Ninahuaman"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
